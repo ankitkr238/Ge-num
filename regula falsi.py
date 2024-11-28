@@ -1,5 +1,4 @@
-# Python3 implementation of Bisection
-# Method for solving equations
+
 
 MAX_ITER = 1000000
 
